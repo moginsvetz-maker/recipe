@@ -1,6 +1,7 @@
 # Fancy Read Me File 
 ### A little about the recipe
-Russian kefir pancakes are not only good for the soul but they are very good for your health. Kefir is a fermented milk drink which is very popular in Eastern Slavic countries.
+Russian kefir pancakes are not only good for the soul but they are very good for your health. 
+Kefir is a __fermented milk__ drink which is very popular in Eastern Slavic countries, it is highly _probiotic_ drink.
 ### Recipe Ingredients: 
 1. Kefir
 2. Sugar
