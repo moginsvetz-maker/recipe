@@ -10,4 +10,4 @@ Kefir is a __fermented milk__ drink which is very popular in Eastern Slavic coun
 5. Flour
 6. Baking Soda
 7. Powdered Sugar
-![Kefir pancakes](/jgeye/recipe.png "Kefir pancakes")
+![Instructions](recipe.png "Instructions")
